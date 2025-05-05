@@ -1,0 +1,15 @@
+
+
+.f01{
+    border: 1px solid green;
+    height: 200px;
+}
+
+.bg-nav-mod{
+    box-shadow: rgba(248, 59, 2, 0.1) 0px 10px 10px -10px;
+}
+
+.ml-mod{
+    margin-left: 8px;
+}
+
